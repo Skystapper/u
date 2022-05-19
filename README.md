@@ -10,6 +10,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AbirHasan2005/VideoCompress)
 ![GitHub](https://img.shields.io/github/license/AbirHasan2005/VideoCompress)
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/LinuxRepository_OT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/u)
 
 
 A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
